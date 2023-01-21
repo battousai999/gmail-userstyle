@@ -2,24 +2,13 @@
 /* Get rid of those fisher-price toddler toy rounded corner radii */
 
 .bkK > .nH {
-  background-color: rgba(255,255,255,0.8);
   -moz-border-radius: 3px;
   border-radius: 3px;
-  margin-bottom: 16px;
-  overflow-y: hidden;
 }
 
-.gb_Xe {
-  background: #f1f3f4;
-  border: 1px solid transparent;
+.gb_We {
   -moz-border-radius: 8px;
   border-radius: 4px;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 720px;
-  position: relative;
-  -moz-transition: background 100ms ease-in,width 100ms ease-out;
-  transition: background 100ms ease-in,width 100ms ease-out;
 }
 
 }
